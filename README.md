@@ -76,4 +76,4 @@ cp -rp RTIR-splunk-alert /$splunk_home/etc/apps
 $splunk_home/bin/splunk restart
 ```
 
-5. repeat  setps from 6 to 10 in GUI installtion
+5. repeat  setps from 6 to 9 in GUI installtion
