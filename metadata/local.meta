@@ -1,0 +1,18 @@
+[props/source%3A%3A...rtir_modalert.log%2A]
+owner = anwar_admin
+version = 7.3.2
+modtime = 1585196209.664042000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-rtir%23configs%2Fconf-ta_rtir_settings%3Aadditional_parameters%60%60splunk_cred_sep%60%601%3A]
+owner = anwar_admin
+version = 7.3.2
+modtime = 1585202341.435348000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-rtir%23configs%2Fconf-ta_rtir_settings%3Aadditional_parameters%60%60splunk_cred_sep%60%602%3A]
+owner = anwar_admin
+version = 7.3.2
+modtime = 1585202341.479803000
+
+[ta_rtir_settings/additional_parameters]
+version = 7.3.2
+modtime = 1585202341.489066000
