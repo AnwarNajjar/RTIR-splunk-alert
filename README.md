@@ -21,7 +21,7 @@ Note: The app written in python3 and it's compatible with ES v5.0.1+ and splunk 
 
 > Install from Splunk  GUI
 
-1. Download Application file from the [link](https://google.com) : 
+1. Download Application file from the [link](https://raw.githubusercontent.com/AnwarNajjar/RTIR-splunk-alert/master/TA-rtir-1.0.0.spl?token=ANHCZCHEGONZMKRFDY7UOPS6PSDKK) : 
 2. Login to Splunk portal and go to the home page 
 3. Click on the app gear
 
