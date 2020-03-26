@@ -2,15 +2,14 @@
 # RTIR Alert for Splunk Enterprise Security
 
 #### Release Notes
-
-##### Version 1.0.0 March 26 2020
-##### RTIR Alert for Splunk Enterprise Security 1.0.0
+#### Version 1.0.0 March 26 2020
+#### RTIR Alert for Splunk Enterprise Security 1.0.
 
 ## About RTIR Alert for Splunk Enterprise Security
 
-The RTIR Alert for Splunk Enterprise Security allow Splunk ES users to open a ticket with IR team on [RTIR platform](https://bestpractical.com/rtir) within the ES adaptive respone actions ,correlation search and saved search. 
+ RTIR Alert for Splunk Enterprise Security allows Splunk ES users to open a ticket with the IR team  on the [RTIR platform](https://bestpractical.com/rtir) in the ES adaptive response actions, correlation search and saved search. 
 
-Note: The app written in python3 and it's compatible with ES v5.0.1+ and splunk enterprise v7.0.0+. 
+Note: The app written in python3 and it's compatible with ES v5.0.1+ and Splunk enterprise v7.0.0+.
 
 ## Requirements
 
@@ -53,7 +52,7 @@ Note: The app written in python3 and it's compatible with ES v5.0.1+ and splunk 
 ![](https://user-images.githubusercontent.com/55454856/77630722-31b36d80-6f54-11ea-93ea-ea4afac19209.png)
 
 
-**Note: make sure that RTIR user have the right access to open ticket on RTIR, otherwise the ticket will not opened.**
+**Note: make sure that RTIR user has the right access to open tickets on RTIR, otherwise the ticket will not be opened.**
 
 > install from CLI 
 
