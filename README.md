@@ -1,3 +1,4 @@
+
 # RTIR Alert for Splunk Enterprise Security
 
 #### Release Notes
@@ -44,18 +45,30 @@ Note: The app written in python3 and it's compatible with ES v5.0.1+ and splunk 
 1. SSH to splunk instance 
 2. clone the app from github reposotriy 
 
-git clone 
 
-3. cp app files to /etc/apps/
+```
+git clone https://github.com/AnwarNajjar/RTIR-splunk-alert.git
+```
+
+3. cp app files to $splunk_home/etc/apps/
+```
 
 cp -rp /$splunk_home/etc/apps 
 
+```
 4. restart splunk service 
 
-$splunkhome/bin/splunk restart
+```
+$splunk_home/bin/splunk restart
+```
 
 5. repeat  setps from 6 to 9 in GUI installtion
 
-After doing the above steps you will find the RITR action appear on ES adaptive response and ES notable action. 
+After doing the above steps you will find the RITR action appear on ES adaptive response. 
 
-** Note: make sure that RTIR user have the right access to open ticket on RTIR, otherwise the ticket will not opened. ** 
+![](https://user-images.githubusercontent.com/55454856/77630722-31b36d80-6f54-11ea-93ea-ea4afac19209.png)
+
+
+**Note: make sure that RTIR user have the right access to open ticket on RTIR, otherwise the ticket will not opened.**
+
+
