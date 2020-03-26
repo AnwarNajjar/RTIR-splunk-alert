@@ -21,13 +21,20 @@ Note: The app written in python3 and it's compatible with ES v5.0.1+ and splunk 
 
 > Install from Splunk  GUI
 
-1. Download App from Splunkbase website : 
+1. Download Application file from the [link](https://google.com) : 
 2. Login to Splunk portal and go to the home page 
-3. Click on the app gear and click on mange app 
+3. Click on the app gear
+
+![](https://user-images.githubusercontent.com/55454856/77635554-6ecf2e00-6f5b-11ea-9b2d-ca23fad3573c.png)
+
 4. click install app from file
+
+![](https://user-images.githubusercontent.com/55454856/77635755-b8b81400-6f5b-11ea-9ef2-806ff88cd61b.png)
+
+
 5. Click on browse to upload the app then click on Upload
 
-![Selection_011](https://user-images.githubusercontent.com/55454856/77629283-f2841d00-6f51-11ea-990b-43de006fae78.png)
+![](https://user-images.githubusercontent.com/55454856/77629283-f2841d00-6f51-11ea-990b-43de006fae78.png)
 
 8. go to apps and open the RTIR app 
 
