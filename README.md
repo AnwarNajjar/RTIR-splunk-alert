@@ -68,7 +68,7 @@ git clone https://github.com/AnwarNajjar/RTIR-splunk-alert.git
 3. cp app files to $splunk_home/etc/apps/
 ```
 
-cp -rp /$splunk_home/etc/apps 
+cp -rp RTIR-splunk-alert /$splunk_home/etc/apps 
 
 ```
 4. restart splunk service 
