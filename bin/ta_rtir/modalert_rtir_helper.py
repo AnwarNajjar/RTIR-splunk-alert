@@ -96,7 +96,7 @@ def process_event(helper, *args, **kwargs):
                 'Text': raw_data,
                 'status': 'open',
                 'Owner': owner,
-                "Sla" : sla,
+                "Sla" : urgency ,
                 "Requestor" : req_email,
                 "Cc": cc_email ,
                 "AdminCc" : admin_cc_email
